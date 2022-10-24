@@ -1,6 +1,6 @@
 #!/bin/bash
-TEST=Module Test B 
-printf "This file is named $0 \n"
-
+TEST="Module Test B" 
+printf "This file is called $0 \n"
+echo
 printf "Hello $1 \n"
-printf "Good luck with $2"
+printf "Good luck with $TEST"
